@@ -7,6 +7,6 @@ Build with [0 to LSP : Neovim RC From Scratch](https://www.youtube.com/watch?v=w
 Keymappings
 |Key|Cmd|Action|
 |---|---|------|
-|\<leader\>pv|Ex|Go from files to directory|
-|\<leader\>ff|find\_files|Uses telescope to find files|
-|\<C-p\>|git\_files|Uses telescope to search through git files|
+|Space, p, v|Ex|Go from files to directory|
+|Space, f, f|find\_files|Uses telescope to find files|
+|Ctrl+p|git\_files|Uses telescope to search through git files|
