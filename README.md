@@ -69,7 +69,7 @@ Build with [0 to LSP : Neovim RC From Scratch](https://www.youtube.com/watch?v=w
 | `Ctrl + w + s`      | Split the current window horizontally    |
 | `Ctrl + w + v`      | Split the current window vertically      |
 | `Ctrl + w + [hjkl]` | Navigate between window splits           |
-
+| `=ap`              | Format                                    |
 #### File Management
 
 | Key Mapping        | Description                              |
