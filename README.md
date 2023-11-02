@@ -99,6 +99,6 @@ Build with [0 to LSP : Neovim RC From Scratch](https://www.youtube.com/watch?v=w
 |`Ctrl+h`|Open first file in harpoon | 
 |`Ctrl+j`|Open second file in harpoon |
 |`Ctrl+k`|Open third file in harpoon | 
-|`Ctrl+left`|Open fourth file in harpoon | 
+|`Ctrl+l`|Open fourth file in harpoon | 
 
 
