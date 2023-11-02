@@ -83,8 +83,22 @@ Build with [0 to LSP : Neovim RC From Scratch](https://www.youtube.com/watch?v=w
 
 
 ### Custom mappings
+
+#### Stuff
 |Key|Cmd|Action|
 |---|---|------|
 |Space, p, v|Ex|Go from files to directory|
 |Space, f, f|find\_files|Uses telescope to find files|
 |Ctrl+p|git\_files|Uses telescope to search through git files|
+
+#### Harpoon
+| Key Mapping | Description |
+|-------------|-------------|
+|`Ctrl+e`     | Open Harpoon UI |
+|`Space, a`  | Add current file to harpoon |
+|`Ctrl+h`|Open first file in harpoon | 
+|`Ctrl+j`|Open second file in harpoon |
+|`Ctrl+k`|Open third file in harpoon | 
+|`Ctrl+left`|Open fourth file in harpoon | 
+
+
